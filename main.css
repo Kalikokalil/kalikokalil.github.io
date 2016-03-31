@@ -1,0 +1,26 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	}
+
+
+body {
+	background: white;
+	cursor: crosshair;
+		
+}
+
+div img {
+position: relative;
+float: center;
+max-width: 15%;
+top:100px;
+}
+
+.arrow:hover {
+	cursor: help;
+}
+
+.allgifs {
+	float: center;
+}
