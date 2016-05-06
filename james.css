@@ -13,7 +13,7 @@ body {
 div img {
 position: relative;
 float: left;
-max-width: 300px;
+max-width: 200px;
 }
 
 .arrow:hover {
